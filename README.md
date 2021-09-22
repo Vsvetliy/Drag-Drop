@@ -4,7 +4,7 @@
 
 Ссылка для просмотра:
 
-https://vsvetliy.github.io/Cards-sources/index.html
+https://vsvetliy.github.io/Drag-Drop/index.html
 
 Тренировочный проект по перетаскиванию объектов на странице. 
 Использую только:
